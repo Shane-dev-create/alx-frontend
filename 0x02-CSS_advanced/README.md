@@ -3,7 +3,7 @@
 
 
 ## Learning Objectives
-- At the end of this project, you are expected to be able to `explain to anyone`, <b>without the help of Google:</b>- 
+- At the end of this project, you are expected to be able to `explain to anyone`, <b>without the help of Google:</b>
 
 - Selectors, properties, and values  
 - The difference between block and inline styling  
