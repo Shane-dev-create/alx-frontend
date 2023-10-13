@@ -2,6 +2,7 @@
 
 # HTML Front-end  
 
+[Image](https://static.wixstatic.com/media/0f65e1_0740f583bb0a46dfa6916388a5606e02~mv2.png/v1/fit/w_883%2Ch_457%2Cal_c%2Cq_80,enc_auto/file.jpg)
 ## Learning Objectives
 
 - At the end of this project, you are expected to be able to explain to anyone, <b>without the help of Google:</b>
