@@ -28,8 +28,8 @@ Techium will be the name of the company we will use across our webpages.
 
 # Sitemap of the project
 
-![Image](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/4/3e4f9e2b3cb73d1768229e086f5da35337be5c6c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231013%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231013T143043Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=713b2c33d5e22e4ec50e0df052d6a89a58db0c800e301963b0c1295e88e4ae3f)
+![Image](https://drive.google.com/file/d/1aYKDu_rg7L2TErZ2NJsGK3zxqbrxlYfv/view?usp=drive_link)
 
 # Wireframe of `Techium` project
 
-![Wireframe Image](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/4/3e4f9e2b3cb73d1768229e086f5da35337be5c6c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231009%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231009T133033Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=d4085434e71eb93fc96e87614e17d355feec7acb4c28c5fac5f27bf3ab18412f)
+![Image](https://drive.google.com/file/d/1QruYdkaGYqWbmTRGq9qop0H1PJ25ZNu2/view?usp=drive_link)
