@@ -1,10 +1,4 @@
-.sqs-block-markdown {
-    background: #101010;
-}
 
-.markdown-block {
-    background: #101010;
-}
 
 # 0x02. Advanced CSS
 ## CSS Front-end
